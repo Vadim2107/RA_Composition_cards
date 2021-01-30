@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ykv7yogduox18ith?svg=true)](https://ci.appveyor.com/project/Vadim2107/ra-composition-cards)
 
 ### [GitHub Pages](https://vadim2107.github.io/RA_Composition_cards/)
 
